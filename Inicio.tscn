@@ -7,3 +7,5 @@
 [node name="Sprite" type="Sprite" parent="."]
 position = Vector2( 301, 209 )
 texture = ExtResource( 1 )
+
+[node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D" parent="."]
